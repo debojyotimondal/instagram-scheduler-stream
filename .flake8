@@ -1,0 +1,4 @@
+[flake8]
+max-ine-length = 88
+exclude = .git,__pycache__
+max-complexity = 10
